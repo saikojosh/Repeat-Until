@@ -1,0 +1,34 @@
+{
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saikojosh/Repeat-Until.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saikojosh/Repeat-Until/issues"
+  },
+  "name": "repeat-until",
+  "version": "0.0.1",
+  "description": "A simple utility to repeat a function until a truthy value is encountered.",
+  "keywords": [
+    "function",
+    "repeat",
+    "until",
+    "interval",
+    "timeout"
+  ],
+  "main": "repeatUntil.js",
+  "author": "Josh Cole <saikojosh@gmail.com> (http://www.JoshuaCole.me)",
+  "contributors": [
+    {
+      "name": "Josh Cole",
+      "email": "saikojosh@gmail.com"
+    }
+  ],
+  "dependencies": {
+
+  },
+  "license": "MIT"
+}
