@@ -32,3 +32,8 @@ function RepeatUntil (delay, taskFn, finalFn) {
   return setTimeout(runFn, delay);
 
 };
+
+/*
+ * Export the constructor!
+ */
+module.exports = RepeatUntil;
